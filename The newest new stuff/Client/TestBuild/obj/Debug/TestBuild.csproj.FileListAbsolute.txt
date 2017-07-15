@@ -1,0 +1,196 @@
+C:\Users\bradd\Documents\TestBuild\TestBuild\bin\Debug\TestBuild.exe.config
+C:\Users\bradd\Documents\TestBuild\TestBuild\obj\Debug\TestBuild.exe
+C:\Users\bradd\Documents\TestBuild\TestBuild\obj\Debug\TestBuild.pdb
+C:\Users\bradd\Documents\TestBuild\TestBuild\bin\Debug\TestBuild.exe
+C:\Users\bradd\Documents\TestBuild\TestBuild\bin\Debug\TestBuild.pdb
+C:\Users\bradd\Documents\TestBuild\TestBuild\obj\Debug\TestBuild.csprojResolveAssemblyReference.cache
+C:\Users\bradd\Documents\TestBuild\TestBuild\obj\Debug\TestBuild.GameScreen.resources
+C:\Users\bradd\Documents\TestBuild\TestBuild\obj\Debug\TestBuild.Properties.Resources.resources
+C:\Users\bradd\Documents\TestBuild\TestBuild\obj\Debug\TestBuild.csproj.GenerateResource.Cache
+L:\TestBuild\TestBuild\bin\Debug\TestBuild.exe.config
+L:\TestBuild\TestBuild\obj\Debug\TestBuild.exe
+L:\TestBuild\TestBuild\obj\Debug\TestBuild.pdb
+H:\TestBuild\TestBuild\bin\Debug\TestBuild.exe.config
+H:\TestBuild\TestBuild\obj\Debug\TestBuild.exe
+H:\TestBuild\TestBuild\obj\Debug\TestBuild.pdb
+H:\TestBuild\TestBuild\bin\Debug\TestBuild.exe
+H:\TestBuild\TestBuild\bin\Debug\TestBuild.pdb
+H:\TestBuild\TestBuild\obj\Debug\TestBuild.csprojResolveAssemblyReference.cache
+H:\TestBuild\TestBuild\obj\Debug\TestBuild.GameScreen.resources
+H:\TestBuild\TestBuild\obj\Debug\TestBuild.Properties.Resources.resources
+H:\TestBuild\TestBuild\obj\Debug\TestBuild.csproj.GenerateResource.Cache
+C:\TestBuild\TestBuild\bin\Debug\TestBuild.exe.config
+C:\TestBuild\TestBuild\obj\Debug\TestBuild.exe
+C:\TestBuild\TestBuild\obj\Debug\TestBuild.pdb
+C:\TestBuild\TestBuild\bin\Debug\TestBuild.exe
+C:\TestBuild\TestBuild\bin\Debug\TestBuild.pdb
+C:\TestBuild\TestBuild\obj\Debug\TestBuild.csprojResolveAssemblyReference.cache
+C:\TestBuild\TestBuild\obj\Debug\TestBuild.GameScreen.resources
+C:\TestBuild\TestBuild\obj\Debug\TestBuild.Properties.Resources.resources
+C:\TestBuild\TestBuild\obj\Debug\TestBuild.csproj.GenerateResource.Cache
+D:\TestBuild\TestBuild\bin\Debug\TestBuild.exe.config
+D:\TestBuild\TestBuild\obj\Debug\TestBuild.exe
+D:\TestBuild\TestBuild\obj\Debug\TestBuild.pdb
+D:\TestBuild\TestBuild\bin\Debug\TestBuild.exe
+D:\TestBuild\TestBuild\bin\Debug\TestBuild.pdb
+D:\TestBuild\TestBuild\obj\Debug\TestBuild.csprojResolveAssemblyReference.cache
+D:\TestBuild\TestBuild\obj\Debug\TestBuild.GameScreen.resources
+D:\TestBuild\TestBuild\obj\Debug\TestBuild.Properties.Resources.resources
+D:\TestBuild\TestBuild\obj\Debug\TestBuild.csproj.GenerateResource.Cache
+F:\TestBuild\TestBuild\bin\Debug\TestBuild.exe.config
+F:\TestBuild\TestBuild\obj\Debug\TestBuild.exe
+F:\TestBuild\TestBuild\obj\Debug\TestBuild.pdb
+F:\TestBuild\TestBuild\bin\Debug\TestBuild.exe
+F:\TestBuild\TestBuild\bin\Debug\TestBuild.pdb
+F:\TestBuild\TestBuild\obj\Debug\TestBuild.csprojResolveAssemblyReference.cache
+F:\TestBuild\TestBuild\obj\Debug\TestBuild.GameScreen.resources
+F:\TestBuild\TestBuild\obj\Debug\TestBuild.Properties.Resources.resources
+F:\TestBuild\TestBuild\obj\Debug\TestBuild.csproj.GenerateResource.Cache
+F:\TestBuildNew\TestBuild\bin\Debug\TestBuild.exe.config
+F:\TestBuildNew\TestBuild\obj\Debug\TestBuild.exe
+F:\TestBuildNew\TestBuild\obj\Debug\TestBuild.pdb
+F:\TestBuildNew\TestBuild\bin\Debug\TestBuild.exe
+F:\TestBuildNew\TestBuild\bin\Debug\TestBuild.pdb
+F:\TestBuildNew\TestBuild\obj\Debug\TestBuild.csprojResolveAssemblyReference.cache
+F:\TestBuildNew\TestBuild\obj\Debug\TestBuild.GameScreen.resources
+F:\TestBuildNew\TestBuild\obj\Debug\TestBuild.Properties.Resources.resources
+F:\TestBuildNew\TestBuild\obj\Debug\TestBuild.csproj.GenerateResource.Cache
+C:\TestBuildNew\TestBuild\bin\Debug\TestBuild.exe.config
+C:\TestBuildNew\TestBuild\obj\Debug\TestBuild.exe
+C:\TestBuildNew\TestBuild\obj\Debug\TestBuild.pdb
+C:\TestBuildNew\TestBuild\bin\Debug\TestBuild.exe
+C:\TestBuildNew\TestBuild\bin\Debug\TestBuild.pdb
+C:\TestBuildNew\TestBuild\obj\Debug\TestBuild.csprojResolveAssemblyReference.cache
+C:\TestBuildNew\TestBuild\obj\Debug\TestBuild.GameScreen.resources
+C:\TestBuildNew\TestBuild\obj\Debug\TestBuild.Properties.Resources.resources
+C:\TestBuildNew\TestBuild\obj\Debug\TestBuild.csproj.GenerateResource.Cache
+D:\TestBuildNew\TestBuild\bin\Debug\TestBuild.exe.config
+D:\TestBuildNew\TestBuild\obj\Debug\TestBuild.exe
+D:\TestBuildNew\TestBuild\obj\Debug\TestBuild.pdb
+D:\TestBuildNew\TestBuild\bin\Debug\TestBuild.exe
+D:\TestBuildNew\TestBuild\bin\Debug\TestBuild.pdb
+D:\TestBuildNew\TestBuild\obj\Debug\TestBuild.csprojResolveAssemblyReference.cache
+D:\TestBuildNew\TestBuild\obj\Debug\TestBuild.GameScreen.resources
+D:\TestBuildNew\TestBuild\obj\Debug\TestBuild.Properties.Resources.resources
+D:\TestBuildNew\TestBuild\obj\Debug\TestBuild.csproj.GenerateResource.Cache
+H:\TestBuildNew\TestBuild\bin\Debug\TestBuild.exe.config
+H:\TestBuildNew\TestBuild\obj\Debug\TestBuild.exe
+H:\TestBuildNew\TestBuild\obj\Debug\TestBuild.pdb
+H:\TestBuildNew\TestBuild\bin\Debug\TestBuild.exe
+H:\TestBuildNew\TestBuild\bin\Debug\TestBuild.pdb
+H:\TestBuildNew\TestBuild\obj\Debug\TestBuild.csprojResolveAssemblyReference.cache
+H:\TestBuildNew\TestBuild\obj\Debug\TestBuild.GameScreen.resources
+H:\TestBuildNew\TestBuild\obj\Debug\TestBuild.Properties.Resources.resources
+H:\TestBuildNew\TestBuild\obj\Debug\TestBuild.csproj.GenerateResource.Cache
+L:\TestBuildNew\TestBuild\bin\Debug\TestBuild.exe.config
+L:\TestBuildNew\TestBuild\obj\Debug\TestBuild.exe
+L:\TestBuildNew\TestBuild\obj\Debug\TestBuild.pdb
+L:\TestBuildNew\TestBuild\bin\Debug\TestBuild.exe
+L:\TestBuildNew\TestBuild\bin\Debug\TestBuild.pdb
+L:\TestBuildNew\TestBuild\obj\Debug\TestBuild.csprojResolveAssemblyReference.cache
+L:\TestBuildNew\TestBuild\obj\Debug\TestBuild.GameScreen.resources
+L:\TestBuildNew\TestBuild\obj\Debug\TestBuild.Properties.Resources.resources
+L:\TestBuildNew\TestBuild\obj\Debug\TestBuild.csproj.GenerateResource.Cache
+L:\TestBuildNew\TestBuild\obj\Debug\TestBuild.MainMenu.resources
+F:\Computer science\Year Two\System Programming - Term 2\Verison 2\Program\TestBuildNew\TestBuild\obj\Debug\TestBuild.GameScreen.resources
+F:\Computer science\Year Two\System Programming - Term 2\Verison 2\Program\TestBuildNew\TestBuild\obj\Debug\TestBuild.MainMenu.resources
+F:\Computer science\Year Two\System Programming - Term 2\Verison 2\Program\TestBuildNew\TestBuild\obj\Debug\TestBuild.Properties.Resources.resources
+F:\Computer science\Year Two\System Programming - Term 2\Verison 2\Program\TestBuildNew\TestBuild\obj\Debug\TestBuild.csproj.GenerateResource.Cache
+L:\Computer science\Year Two\System Programming - Term 2\Verison 2\Program\TestBuildNew\TestBuild\obj\Debug\TestBuild.csprojResolveAssemblyReference.cache
+L:\Computer science\Year Two\System Programming - Term 2\Verison 2\Program\TestBuildNew\TestBuild\obj\Debug\TestBuild.GameScreen.resources
+L:\Computer science\Year Two\System Programming - Term 2\Verison 2\Program\TestBuildNew\TestBuild\obj\Debug\TestBuild.MainMenu.resources
+L:\Computer science\Year Two\System Programming - Term 2\Verison 2\Program\TestBuildNew\TestBuild\obj\Debug\TestBuild.Properties.Resources.resources
+L:\Computer science\Year Two\System Programming - Term 2\Verison 2\Program\TestBuildNew\TestBuild\obj\Debug\TestBuild.csproj.GenerateResource.Cache
+F:\Computer science\Year Two\System Programming - Term 2\Verison 2\Program\TestBuildNew\TestBuild\bin\Debug\TestBuild.exe.config
+F:\Computer science\Year Two\System Programming - Term 2\Verison 2\Program\TestBuildNew\TestBuild\bin\Debug\TestBuild.exe
+F:\Computer science\Year Two\System Programming - Term 2\Verison 2\Program\TestBuildNew\TestBuild\bin\Debug\TestBuild.pdb
+F:\Computer science\Year Two\System Programming - Term 2\Verison 2\Program\TestBuildNew\TestBuild\obj\Debug\TestBuild.exe
+F:\Computer science\Year Two\System Programming - Term 2\Verison 2\Program\TestBuildNew\TestBuild\obj\Debug\TestBuild.pdb
+F:\Computer science\Year Two\System Programming - Term 2\Verison 2\Program\TestBuildNew\TestBuild\obj\Debug\TestBuild.csprojResolveAssemblyReference.cache
+L:\Computer science\Year Two\System Programming - Term 2\Verison 2\Program\TestBuildNew\TestBuild\bin\Debug\TestBuild.exe.config
+L:\Computer science\Year Two\System Programming - Term 2\Verison 2\Program\TestBuildNew\TestBuild\obj\Debug\TestBuild.exe
+L:\Computer science\Year Two\System Programming - Term 2\Verison 2\Program\TestBuildNew\TestBuild\obj\Debug\TestBuild.pdb
+L:\Computer science\Year Two\System Programming - Term 2\Verison 2\Program\TestBuildNew\TestBuild\bin\Debug\TestBuild.exe
+L:\Computer science\Year Two\System Programming - Term 2\Verison 2\Program\TestBuildNew\TestBuild\bin\Debug\TestBuild.pdb
+H:\Computer science\Year Two\System Programming - Term 2\Verison 2\Program\TestBuildNew\TestBuild\bin\Debug\TestBuild.exe.config
+H:\Computer science\Year Two\System Programming - Term 2\Verison 2\Program\TestBuildNew\TestBuild\obj\Debug\TestBuild.exe
+H:\Computer science\Year Two\System Programming - Term 2\Verison 2\Program\TestBuildNew\TestBuild\obj\Debug\TestBuild.pdb
+H:\Computer science\Year Two\System Programming - Term 2\Verison 2\Program\TestBuildNew\TestBuild\bin\Debug\TestBuild.exe
+H:\Computer science\Year Two\System Programming - Term 2\Verison 2\Program\TestBuildNew\TestBuild\bin\Debug\TestBuild.pdb
+H:\Computer science\Year Two\System Programming - Term 2\Verison 2\Program\TestBuildNew\TestBuild\obj\Debug\TestBuild.csprojResolveAssemblyReference.cache
+H:\Computer science\Year Two\System Programming - Term 2\Verison 2\Program\TestBuildNew\TestBuild\obj\Debug\TestBuild.GameScreen.resources
+H:\Computer science\Year Two\System Programming - Term 2\Verison 2\Program\TestBuildNew\TestBuild\obj\Debug\TestBuild.MainMenu.resources
+H:\Computer science\Year Two\System Programming - Term 2\Verison 2\Program\TestBuildNew\TestBuild\obj\Debug\TestBuild.Properties.Resources.resources
+H:\Computer science\Year Two\System Programming - Term 2\Verison 2\Program\TestBuildNew\TestBuild\obj\Debug\TestBuild.csproj.GenerateResource.Cache
+C:\TestBuildNew\TestBuild\obj\Debug\TestBuild.MainMenu.resources
+F:\TestBuildNew\TestBuild\obj\Debug\TestBuild.MainMenu.resources
+C:\Users\bd2785b\Downloads\Newest Version\Client\TestBuild\bin\Debug\TestBuild.exe.config
+C:\Users\bd2785b\Downloads\Newest Version\Client\TestBuild\bin\Debug\TestBuild.exe
+C:\Users\bd2785b\Downloads\Newest Version\Client\TestBuild\bin\Debug\TestBuild.pdb
+C:\Users\bd2785b\Downloads\Newest Version\Client\TestBuild\obj\Debug\TestBuild.csprojResolveAssemblyReference.cache
+C:\Users\bd2785b\Downloads\Newest Version\Client\TestBuild\obj\Debug\TestBuild.GameScreen.resources
+C:\Users\bd2785b\Downloads\Newest Version\Client\TestBuild\obj\Debug\TestBuild.MainMenu.resources
+C:\Users\bd2785b\Downloads\Newest Version\Client\TestBuild\obj\Debug\TestBuild.Properties.Resources.resources
+C:\Users\bd2785b\Downloads\Newest Version\Client\TestBuild\obj\Debug\TestBuild.csproj.GenerateResource.Cache
+C:\Users\bd2785b\Downloads\Newest Version\Client\TestBuild\obj\Debug\TestBuild.exe
+C:\Users\bd2785b\Downloads\Newest Version\Client\TestBuild\obj\Debug\TestBuild.pdb
+C:\Newest Version\Client\TestBuild\bin\Debug\TestBuild.exe.config
+C:\Newest Version\Client\TestBuild\obj\Debug\TestBuild.exe
+C:\Newest Version\Client\TestBuild\obj\Debug\TestBuild.pdb
+C:\Newest Version\Client\TestBuild\bin\Debug\TestBuild.exe
+C:\Newest Version\Client\TestBuild\bin\Debug\TestBuild.pdb
+C:\Newest Version\Client\TestBuild\obj\Debug\TestBuild.csprojResolveAssemblyReference.cache
+C:\Newest Version\Client\TestBuild\obj\Debug\TestBuild.GameScreen.resources
+C:\Newest Version\Client\TestBuild\obj\Debug\TestBuild.MainMenu.resources
+C:\Newest Version\Client\TestBuild\obj\Debug\TestBuild.Properties.Resources.resources
+C:\Newest Version\Client\TestBuild\obj\Debug\TestBuild.csproj.GenerateResource.Cache
+C:\Client\TestBuild\bin\Debug\TestBuild.exe.config
+C:\Client\TestBuild\bin\Debug\TestBuild.exe
+C:\Client\TestBuild\bin\Debug\TestBuild.pdb
+C:\Client\TestBuild\obj\Debug\TestBuild.csprojResolveAssemblyReference.cache
+C:\Client\TestBuild\obj\Debug\TestBuild.GameScreen.resources
+C:\Client\TestBuild\obj\Debug\TestBuild.MainMenu.resources
+C:\Client\TestBuild\obj\Debug\TestBuild.Properties.Resources.resources
+C:\Client\TestBuild\obj\Debug\TestBuild.csproj.GenerateResource.Cache
+C:\Client\TestBuild\obj\Debug\TestBuild.exe
+C:\Client\TestBuild\obj\Debug\TestBuild.pdb
+C:\temp\Client\TestBuild\bin\Debug\TestBuild.exe.config
+C:\temp\Client\TestBuild\obj\Debug\TestBuild.exe
+C:\temp\Client\TestBuild\obj\Debug\TestBuild.pdb
+C:\temp\Client\TestBuild\bin\Debug\TestBuild.exe
+C:\temp\Client\TestBuild\bin\Debug\TestBuild.pdb
+C:\temp\Client\TestBuild\obj\Debug\TestBuild.csprojResolveAssemblyReference.cache
+C:\temp\Client\TestBuild\obj\Debug\TestBuild.GameScreen.resources
+C:\temp\Client\TestBuild\obj\Debug\TestBuild.MainMenu.resources
+C:\temp\Client\TestBuild\obj\Debug\TestBuild.Properties.Resources.resources
+C:\temp\Client\TestBuild\obj\Debug\TestBuild.csproj.GenerateResource.Cache
+F:\Client\TestBuild\bin\Debug\TestBuild.exe.config
+F:\Client\TestBuild\bin\Debug\TestBuild.exe
+F:\Client\TestBuild\bin\Debug\TestBuild.pdb
+F:\Client\TestBuild\obj\Debug\TestBuild.csprojResolveAssemblyReference.cache
+F:\Client\TestBuild\obj\Debug\TestBuild.GameScreen.resources
+F:\Client\TestBuild\obj\Debug\TestBuild.MainMenu.resources
+F:\Client\TestBuild\obj\Debug\TestBuild.Properties.Resources.resources
+F:\Client\TestBuild\obj\Debug\TestBuild.csproj.GenerateResource.Cache
+F:\Client\TestBuild\obj\Debug\TestBuild.exe
+F:\Client\TestBuild\obj\Debug\TestBuild.pdb
+\\HOME\Drive\Client\TestBuild\bin\Debug\TestBuild.exe.config
+\\HOME\Drive\Client\TestBuild\obj\Debug\TestBuild.exe
+\\HOME\Drive\Client\TestBuild\obj\Debug\TestBuild.pdb
+\\HOME\Drive\Client\TestBuild\bin\Debug\TestBuild.exe
+\\HOME\Drive\Client\TestBuild\bin\Debug\TestBuild.pdb
+\\HOME\Drive\Client\TestBuild\obj\Debug\TestBuild.csprojResolveAssemblyReference.cache
+\\HOME\Drive\Client\TestBuild\obj\Debug\TestBuild.GameScreen.resources
+\\HOME\Drive\Client\TestBuild\obj\Debug\TestBuild.MainMenu.resources
+\\HOME\Drive\Client\TestBuild\obj\Debug\TestBuild.Properties.Resources.resources
+\\HOME\Drive\Client\TestBuild\obj\Debug\TestBuild.csproj.GenerateResource.Cache
+C:\Users\bradd\Documents\Client\TestBuild\bin\Debug\TestBuild.exe.config
+C:\Users\bradd\Documents\Client\TestBuild\obj\Debug\TestBuild.exe
+C:\Users\bradd\Documents\Client\TestBuild\obj\Debug\TestBuild.pdb
+C:\Users\bradd\Documents\Client\TestBuild\bin\Debug\TestBuild.exe
+C:\Users\bradd\Documents\Client\TestBuild\bin\Debug\TestBuild.pdb
+C:\Users\bradd\Documents\Client\TestBuild\obj\Debug\TestBuild.csprojResolveAssemblyReference.cache
+C:\Users\bradd\Documents\Client\TestBuild\obj\Debug\TestBuild.GameScreen.resources
+C:\Users\bradd\Documents\Client\TestBuild\obj\Debug\TestBuild.MainMenu.resources
+C:\Users\bradd\Documents\Client\TestBuild\obj\Debug\TestBuild.Properties.Resources.resources
+C:\Users\bradd\Documents\Client\TestBuild\obj\Debug\TestBuild.csproj.GenerateResource.Cache

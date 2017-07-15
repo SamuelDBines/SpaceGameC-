@@ -1,0 +1,56 @@
+C:\Users\bradd\Documents\Client\TestBuild\bin\Debug\SpaceGame.exe.config
+C:\Users\bradd\Documents\Client\TestBuild\bin\Debug\SpaceGame.exe
+C:\Users\bradd\Documents\Client\TestBuild\bin\Debug\SpaceGame.pdb
+C:\Users\bradd\Documents\Client\TestBuild\obj\Debug\TestBuild.GameScreen.resources
+C:\Users\bradd\Documents\Client\TestBuild\obj\Debug\TestBuild.MainMenu.resources
+C:\Users\bradd\Documents\Client\TestBuild\obj\Debug\SpaceGame.Properties.Resources.resources
+C:\Users\bradd\Documents\Client\TestBuild\obj\Debug\SpaceGame.csproj.GenerateResource.Cache
+C:\Users\bradd\Documents\Client\TestBuild\obj\Debug\SpaceGame.exe
+C:\Users\bradd\Documents\Client\TestBuild\obj\Debug\SpaceGame.pdb
+C:\Users\bradd\Documents\Client\TestBuild\obj\Debug\SpaceGame.csprojResolveAssemblyReference.cache
+O:\The newest new stuff\Client\TestBuild\bin\Debug\SpaceGame.exe.config
+O:\The newest new stuff\Client\TestBuild\obj\Debug\SpaceGame.exe
+O:\The newest new stuff\Client\TestBuild\obj\Debug\SpaceGame.pdb
+L:\The newest new stuff\Client\TestBuild\bin\Debug\SpaceGame.exe.config
+L:\The newest new stuff\Client\TestBuild\obj\Debug\SpaceGame.exe
+L:\The newest new stuff\Client\TestBuild\obj\Debug\SpaceGame.pdb
+C:\Client\TestBuild\bin\Debug\SpaceGame.exe.config
+C:\Client\TestBuild\obj\Debug\SpaceGame.exe
+C:\Client\TestBuild\obj\Debug\SpaceGame.pdb
+C:\Client\TestBuild\bin\Debug\SpaceGame.exe
+C:\Client\TestBuild\bin\Debug\SpaceGame.pdb
+C:\Client\TestBuild\obj\Debug\SpaceGame.csprojResolveAssemblyReference.cache
+C:\Client\TestBuild\obj\Debug\TestBuild.GameScreen.resources
+C:\Client\TestBuild\obj\Debug\TestBuild.MainMenu.resources
+C:\Client\TestBuild\obj\Debug\SpaceGame.Properties.Resources.resources
+C:\Client\TestBuild\obj\Debug\SpaceGame.csproj.GenerateResource.Cache
+I:\The newest new stuff\Client\TestBuild\bin\Debug\SpaceGame.exe.config
+I:\The newest new stuff\Client\TestBuild\obj\Debug\SpaceGame.exe
+I:\The newest new stuff\Client\TestBuild\obj\Debug\SpaceGame.pdb
+I:\The newest new stuff\Client\TestBuild\bin\Debug\SpaceGame.exe
+I:\The newest new stuff\Client\TestBuild\bin\Debug\SpaceGame.pdb
+I:\The newest new stuff\Client\TestBuild\obj\Debug\SpaceGame.csprojResolveAssemblyReference.cache
+I:\The newest new stuff\Client\TestBuild\obj\Debug\TestBuild.GameScreen.resources
+I:\The newest new stuff\Client\TestBuild\obj\Debug\TestBuild.MainMenu.resources
+I:\The newest new stuff\Client\TestBuild\obj\Debug\SpaceGame.Properties.Resources.resources
+I:\The newest new stuff\Client\TestBuild\obj\Debug\SpaceGame.csproj.GenerateResource.Cache
+D:\The newest new stuff\Client\TestBuild\bin\Debug\SpaceGame.exe.config
+D:\The newest new stuff\Client\TestBuild\obj\Debug\SpaceGame.exe
+D:\The newest new stuff\Client\TestBuild\obj\Debug\SpaceGame.pdb
+D:\The newest new stuff\Client\TestBuild\bin\Debug\SpaceGame.exe
+D:\The newest new stuff\Client\TestBuild\bin\Debug\SpaceGame.pdb
+D:\The newest new stuff\Client\TestBuild\obj\Debug\SpaceGame.csprojResolveAssemblyReference.cache
+D:\The newest new stuff\Client\TestBuild\obj\Debug\TestBuild.GameScreen.resources
+D:\The newest new stuff\Client\TestBuild\obj\Debug\TestBuild.MainMenu.resources
+D:\The newest new stuff\Client\TestBuild\obj\Debug\SpaceGame.Properties.Resources.resources
+D:\The newest new stuff\Client\TestBuild\obj\Debug\SpaceGame.csproj.GenerateResource.Cache
+C:\Users\bradd\Documents\The newest new stuff\Client\TestBuild\bin\Debug\SpaceGame.exe.config
+C:\Users\bradd\Documents\The newest new stuff\Client\TestBuild\obj\Debug\SpaceGame.exe
+C:\Users\bradd\Documents\The newest new stuff\Client\TestBuild\obj\Debug\SpaceGame.pdb
+C:\Users\bradd\Documents\The newest new stuff\Client\TestBuild\bin\Debug\SpaceGame.exe
+C:\Users\bradd\Documents\The newest new stuff\Client\TestBuild\bin\Debug\SpaceGame.pdb
+C:\Users\bradd\Documents\The newest new stuff\Client\TestBuild\obj\Debug\SpaceGame.csprojResolveAssemblyReference.cache
+C:\Users\bradd\Documents\The newest new stuff\Client\TestBuild\obj\Debug\TestBuild.GameScreen.resources
+C:\Users\bradd\Documents\The newest new stuff\Client\TestBuild\obj\Debug\TestBuild.MainMenu.resources
+C:\Users\bradd\Documents\The newest new stuff\Client\TestBuild\obj\Debug\SpaceGame.Properties.Resources.resources
+C:\Users\bradd\Documents\The newest new stuff\Client\TestBuild\obj\Debug\SpaceGame.csproj.GenerateResource.Cache
